@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gamedevshift-resources/static/css/main.284a76b0.chunk.css",
-    "main.js": "/gamedevshift-resources/static/js/main.dd767448.chunk.js",
-    "main.js.map": "/gamedevshift-resources/static/js/main.dd767448.chunk.js.map",
+    "main.css": "/gamedevshift-resources/static/css/main.020dd6bc.chunk.css",
+    "main.js": "/gamedevshift-resources/static/js/main.55138345.chunk.js",
+    "main.js.map": "/gamedevshift-resources/static/js/main.55138345.chunk.js.map",
     "runtime-main.js": "/gamedevshift-resources/static/js/runtime-main.f54b8857.js",
     "runtime-main.js.map": "/gamedevshift-resources/static/js/runtime-main.f54b8857.js.map",
-    "static/js/2.b4b0f8d9.chunk.js": "/gamedevshift-resources/static/js/2.b4b0f8d9.chunk.js",
-    "static/js/2.b4b0f8d9.chunk.js.map": "/gamedevshift-resources/static/js/2.b4b0f8d9.chunk.js.map",
+    "static/js/2.2e13c050.chunk.js": "/gamedevshift-resources/static/js/2.2e13c050.chunk.js",
+    "static/js/2.2e13c050.chunk.js.map": "/gamedevshift-resources/static/js/2.2e13c050.chunk.js.map",
     "index.html": "/gamedevshift-resources/index.html",
-    "static/css/main.284a76b0.chunk.css.map": "/gamedevshift-resources/static/css/main.284a76b0.chunk.css.map",
-    "static/js/2.b4b0f8d9.chunk.js.LICENSE.txt": "/gamedevshift-resources/static/js/2.b4b0f8d9.chunk.js.LICENSE.txt"
+    "static/css/main.020dd6bc.chunk.css.map": "/gamedevshift-resources/static/css/main.020dd6bc.chunk.css.map",
+    "static/js/2.2e13c050.chunk.js.LICENSE.txt": "/gamedevshift-resources/static/js/2.2e13c050.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f54b8857.js",
-    "static/js/2.b4b0f8d9.chunk.js",
-    "static/css/main.284a76b0.chunk.css",
-    "static/js/main.dd767448.chunk.js"
+    "static/js/2.2e13c050.chunk.js",
+    "static/css/main.020dd6bc.chunk.css",
+    "static/js/main.55138345.chunk.js"
   ]
 }
